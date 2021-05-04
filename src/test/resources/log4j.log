@@ -1,0 +1,328 @@
+[INFO ] 2021-04-20 19:47:09 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-20 19:47:09 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-20 19:47:21 MainPage:116 :clickOnLanguagesButton - message:Click on the Language button
+[INFO ] 2021-04-20 20:53:32 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-20 20:53:32 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-20 20:53:44 MainPage:116 :clickOnLanguagesButton - message:Click on the Language button
+[INFO ] 2021-04-20 20:55:32 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-20 20:55:32 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-20 20:55:45 MainPage:116 :clickOnLanguagesButton - message:Click on the Language button
+[INFO ] 2021-04-20 20:56:51 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-20 20:56:51 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-20 20:57:09 MainPage:116 :clickOnLanguagesButton - message:Click on the Language button
+[INFO ] 2021-04-20 21:15:36 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-20 21:15:36 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-20 21:15:55 MainPage:116 :clickOnLanguagesButton - message:Click on the Language button
+[INFO ] 2021-04-21 21:48:11 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-21 21:48:11 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-21 21:49:34 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-21 21:49:34 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-21 23:01:22 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-21 23:01:22 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-21 23:02:49 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-21 23:02:49 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-21 23:19:49 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-21 23:19:49 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-21 23:20:35 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-21 23:20:35 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-21 23:30:02 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-21 23:30:02 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-21 23:30:13 MainPage:103 :subscribe - message:Click on the Subscribe button
+[INFO ] 2021-04-21 23:34:00 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-21 23:34:00 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-21 23:38:13 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-21 23:38:13 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-21 23:39:23 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-21 23:39:23 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-21 23:44:17 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-21 23:44:17 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-22 20:58:16 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-22 20:58:16 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-22 21:18:40 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-22 21:18:40 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-22 21:34:15 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-22 21:34:15 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-22 21:37:30 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-22 21:37:30 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-22 21:39:14 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-22 21:39:14 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-22 21:40:34 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-22 21:40:34 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-22 21:45:14 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-22 21:45:14 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-22 22:02:45 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-22 22:02:45 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-22 22:13:51 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-22 22:13:52 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-22 22:14:56 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-22 22:14:56 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-22 23:21:36 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-22 23:21:36 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-23 19:53:41 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-23 19:53:41 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-23 19:53:41 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-23 19:53:41 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-23 19:54:00 MainPage:106 :clickOnLanguagesButton - message:Click on the Language button
+[INFO ] 2021-04-23 19:56:23 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-23 19:56:23 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-23 19:56:23 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-23 19:56:23 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-23 19:56:23 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-23 19:56:23 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-23 19:56:52 MainPage:106 :clickOnLanguagesButton - message:Click on the Language button
+[INFO ] 2021-04-23 19:56:55 MainPage:94 :subscribe - message:Click on the Subscribe button
+[INFO ] 2021-04-23 20:00:08 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-23 20:00:08 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-23 20:00:08 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-23 20:00:08 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-23 20:00:08 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-23 20:00:08 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-23 20:00:27 MainPage:106 :clickOnLanguagesButton - message:Click on the Language button
+[INFO ] 2021-04-23 20:00:31 MainPage:94 :subscribe - message:Click on the Subscribe button
+[INFO ] 2021-04-23 20:03:39 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-23 20:03:39 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-23 20:03:39 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-23 20:03:39 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-23 20:03:39 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-23 20:03:39 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-23 20:03:58 MainPage:106 :clickOnLanguagesButton - message:Click on the Language button
+[INFO ] 2021-04-23 20:04:04 MainPage:94 :subscribe - message:Click on the Subscribe button
+[INFO ] 2021-04-23 20:08:35 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-23 20:08:35 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-23 20:08:35 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-23 20:08:35 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-23 20:08:35 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-23 20:08:35 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-23 20:08:54 MainPage:106 :clickOnLanguagesButton - message:Click on the Language button
+[INFO ] 2021-04-23 20:08:57 MainPage:94 :subscribe - message:Click on the Subscribe button
+[INFO ] 2021-04-23 20:11:08 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-23 20:11:08 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-23 20:11:08 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-23 20:11:08 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-23 20:11:08 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-23 20:11:08 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-23 20:11:08 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-23 20:11:08 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-23 20:11:08 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-23 20:11:08 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-23 20:11:08 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-23 20:11:08 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-23 20:11:37 MainPage:106 :clickOnLanguagesButton - message:Click on the Language button
+[INFO ] 2021-04-23 20:11:40 MainPage:94 :subscribe - message:Click on the Subscribe button
+[INFO ] 2021-04-23 20:15:11 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-23 20:15:11 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-23 20:34:44 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-23 20:34:44 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-24 17:30:57 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-24 17:30:57 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-24 17:32:24 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-24 17:32:24 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-24 17:42:28 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-24 17:42:28 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-24 17:48:52 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-24 17:48:52 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-24 18:00:02 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-24 18:00:02 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-24 18:06:24 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-24 18:06:24 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-24 18:11:26 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-24 18:11:27 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-24 18:14:48 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-24 18:14:48 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-24 18:37:04 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[INFO ] 2021-04-24 18:37:04 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[INFO ] 2021-04-26 22:41:45 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-26 22:41:45 WebDriverManager:922 :logSeekRepo - message:Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+[INFO ] 2021-04-26 22:41:45 Downloader:126 :downloadAndExtract - message:Downloading https://chromedriver.storage.googleapis.com/90.0.4430.24/chromedriver_win32.zip
+[INFO ] 2021-04-26 22:41:48 Downloader:183 :extract - message:Extracting driver from compressed file chromedriver_win32.zip
+[INFO ] 2021-04-26 22:41:48 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-04-26 22:43:50 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-26 22:43:50 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-04-26 22:44:29 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-26 22:44:29 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-04-26 22:50:48 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-26 22:50:48 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-04-26 22:54:23 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-26 22:54:23 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-04-26 23:02:32 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-26 23:02:32 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-04-26 23:19:39 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-26 23:19:39 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-04-26 23:46:34 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-26 23:46:34 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-04-26 23:55:39 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-26 23:55:39 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-04-26 23:58:09 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-26 23:58:09 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-04-27 00:07:33 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-27 00:07:33 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-04-27 00:10:17 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-27 00:10:17 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-04-27 14:20:19 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-27 14:20:19 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-04-27 14:21:52 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-27 14:21:52 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-04-27 14:26:44 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-27 14:26:44 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-04-27 14:37:42 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-27 14:37:42 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-04-30 15:51:15 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-30 15:51:15 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-04-30 18:14:45 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-30 18:14:45 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-04-30 18:17:36 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-30 18:17:36 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-04-30 19:54:28 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-30 19:54:28 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-04-30 20:04:08 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-30 20:04:08 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-04-30 20:12:34 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-30 20:12:34 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-04-30 20:18:25 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-04-30 20:18:25 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-01 21:14:59 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-01 21:14:59 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-01 21:42:51 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-01 21:42:51 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-01 21:50:14 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-01 21:50:14 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-01 22:06:38 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-01 22:06:39 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-01 22:32:55 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-01 22:32:55 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-01 22:34:19 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-01 22:34:19 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-01 22:44:37 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-01 22:44:37 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-01 22:50:27 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-01 22:50:27 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-01 22:54:44 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-01 22:54:44 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-01 23:22:49 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-01 23:22:49 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-01 23:24:38 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-01 23:24:38 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-01 23:40:39 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-01 23:40:39 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-01 23:42:05 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-01 23:42:05 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 00:03:16 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 00:03:16 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 00:04:26 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 00:04:26 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 00:22:06 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 00:22:06 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 00:24:27 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 00:24:27 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 00:27:01 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 00:27:01 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 00:31:47 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 00:31:47 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 00:36:36 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 00:36:36 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 00:52:40 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 00:52:40 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 21:24:52 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 21:24:52 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 21:27:08 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 21:27:08 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 21:28:29 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 21:28:29 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 21:30:22 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 21:30:22 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 21:31:23 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 21:31:23 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 21:57:04 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 21:57:04 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 22:02:58 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 22:02:58 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 22:13:27 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 22:13:27 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 22:36:45 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 22:36:45 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 23:12:42 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 23:12:42 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 23:21:24 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 23:21:24 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 23:33:47 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 23:33:47 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 23:36:00 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 23:36:00 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 23:41:28 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 23:41:28 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 23:42:56 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 23:42:56 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-02 23:45:39 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-02 23:45:39 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 11:24:16 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 11:24:16 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 11:30:59 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 11:30:59 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 11:40:53 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 11:40:53 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 12:11:01 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 12:11:01 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 12:12:45 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 12:12:45 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 12:15:17 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 12:15:17 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 12:20:19 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 12:20:19 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 12:21:22 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 12:21:22 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 12:22:45 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 12:22:45 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 12:29:30 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 12:29:31 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 12:33:34 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 12:33:34 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 12:38:04 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 12:38:04 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 12:43:10 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 12:43:10 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 12:45:29 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 12:45:29 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 12:49:50 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 12:49:50 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 13:50:43 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 13:50:43 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 13:52:03 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 13:52:03 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 13:59:24 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 13:59:25 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 14:05:14 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 14:05:14 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 14:10:55 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 14:10:55 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 14:22:19 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 14:22:19 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 19:46:24 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 19:46:24 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 20:03:58 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 20:03:58 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 20:26:21 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 20:26:21 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 20:29:44 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 20:29:44 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 20:40:33 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 20:40:33 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 20:45:51 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 20:45:51 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 20:53:25 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 20:53:25 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 20:55:32 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 20:55:32 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 21:15:02 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 21:15:02 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 22:19:48 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 22:19:48 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 22:29:00 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 22:29:00 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 23:20:20 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 23:20:20 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 23:32:28 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 23:32:29 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 23:35:52 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 23:35:52 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-03 23:38:42 WebDriverManager:606 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-03 23:38:43 WebDriverManager:662 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
