@@ -1,12 +1,15 @@
 package blocks;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import pages.BasePage;
 import pages.MainPage;
+import pages.SearchResultsPage;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -23,6 +26,10 @@ public class UpperMenu {
 
     @FindBy(xpath = "//ul[@id='top-menu']//li[@id='category-9']//a[@class='dropdown-item']")
     private WebElement artTab;
+
+    @FindBy(xpath = "//input[@type='text']")
+    private WebElement searchField;
+
 
 
     List<String> clothesSubMenus = new ArrayList<>();
@@ -75,5 +82,15 @@ public class UpperMenu {
             subMenusText.add(subMenu.getText().trim());
         }
         return subMenusText;
+    }
+
+    public SearchResultsPage searchElement() {
+        searchField.click();
+        searchField.sendKeys("Bear");
+        Actions actions = new Actions(getDriver());
+        actions.sendKeys(Keys.ENTER)
+                .build()
+                .perform();
+        return new SearchResultsPage();
     }
 }

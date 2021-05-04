@@ -12,6 +12,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.List;
+import org.openqa.selenium.support.ui.Select;
 
 public class BasePage {
 
@@ -104,4 +105,11 @@ public class BasePage {
         List<Product> products = Product.getProducts(containersOfProducts);
         return products;
     }*/
+    public static Select selectElement(By locator) {
+        Select select = new Select(getDriver().findElement(locator));
+        return select;
+
+    }
+
+
 }
