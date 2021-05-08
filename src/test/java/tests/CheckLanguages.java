@@ -10,15 +10,15 @@ import static org.assertj.core.api.Assertions.assertThat;
 public class CheckLanguages extends BaseTest {
 
     @Test
-    public void checkNumberLanguages() throws InterruptedException {
+    public void checkNumberLanguages() {
         MainPage mainPage = new MainPage();
-        List<String> langs = mainPage.waitUntilDownloading()
+        List<String> languages = mainPage.waitUntilDownloading()
                 .clickOnLanguagesButton()
-                .findLanguage();
+                .findLanguages();
 
-            assertThat(langs).
+            assertThat(languages).
                     as("this language is not found")
-                    .containsAnyOf("Українська")
+                    .contains("Українська")
                     .as("Wrong number of languages")
                     .hasSize(44);
     }

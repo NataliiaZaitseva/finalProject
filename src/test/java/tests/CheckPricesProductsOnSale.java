@@ -4,30 +4,39 @@ import blocks.Product;
 import org.assertj.core.api.SoftAssertions;
 import org.testng.annotations.Test;
 import pages.MainPage;
-import pages.OnSale;
-import static org.assertj.core.api.Assertions.assertThat;
 import java.util.List;
+import java.util.Map;
+import java.util.Set;
+import static org.assertj.core.api.Assertions.assertThat;
 
 public class CheckPricesProductsOnSale extends BaseTest {
 
     @Test
-    public void checkPricesProducts() throws InterruptedException {
+    public void checkPricesOfProducts() {
 
         MainPage mainPage = new MainPage();
         mainPage.waitUntilDownloading();
         List<Product> productsOnSale = mainPage.getFooter().clickPricesDropLink()
                 .waitUntilDownloading().getAllProductsOnPage();
-        Boolean isNewPricesRight = Product.isNewPriceCalculateRight();
-        Boolean isProductsOnSaleHaveTwoPrices = Product.isTwoPricesAvailableInProductsOnSale();
-
+        Map<Product, Boolean> map = Product.isNewPriceCalculateRightForProducts(productsOnSale);
 
         SoftAssertions softly = new SoftAssertions();
-        assertThat(isProductsOnSaleHaveTwoPrices)
-                .as("There are no two prices in the each Product")
-                .isEqualTo(true);
-        assertThat(isNewPricesRight)
-                .as("New prices calculated wrong")
-                .isEqualTo(true);
+
+        Set<Map.Entry<Product, Boolean>> entries = map.entrySet();
+        for (Map.Entry<Product, Boolean> entry : entries) {
+            assertThat(entry.getValue())
+                    .as("Products price calculated wrong for " + entry)
+                    .isEqualTo(true);
+        }
+
+        for (Map.Entry<Product, Boolean> entry : entries) {
+            assertThat(entry.getKey().getRegularPrice())
+                    .as("Regular price is null")
+                   .isNotNull();
+            assertThat(entry.getKey().getOldPrice())
+                    .as("Old price is null")
+                    .isNotNull();
+        }
         softly.assertAll();
     }
 }

@@ -13,7 +13,7 @@ public class LoginPage extends BasePage {
     @FindBy(xpath = "//div[@class='no-account']//a")
     private WebElement noAccountLink;
 
-    public CreateAnAccount createNewAccount() {
+    public CreateAnAccount goToCreatingNewAccountPage() {
         noAccountLink.click();
         return new CreateAnAccount();
     }

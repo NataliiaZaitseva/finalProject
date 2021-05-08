@@ -12,6 +12,7 @@
         <aspectj.version>1.9.6</aspectj.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <project.build.directory>target</project.build.directory>
     </properties>
 
     <build>
@@ -44,6 +45,7 @@
                         <property>
                             <name>allure.results.directory</name>
                             <value>${project.build.directory}/reports/allure-results</value>
+                            <allure.results.directory>target/allure-results</allure.results.directory>
                         </property>
                     </systemProperties>
                 </configuration>

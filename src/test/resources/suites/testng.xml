@@ -9,6 +9,9 @@
             <class name="tests.CheckCategories"></class>
             <class name="tests.RegistrationWithValidData"></class>
             <class name="tests.RegisterWithInvalidData"></class>
+            <class name="tests.CheckIsSubscribe"></class>
+            <class name="tests.CheckPricesProductsOnSale"></class>
+            <class name="tests.CheckValidOfSorting"></class>
         </classes>
     </test>
 

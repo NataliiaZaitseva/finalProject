@@ -9,14 +9,26 @@ import org.assertj.core.api.SoftAssertions;
 public class AddToCart extends BaseTest{
 
     @Test
-    public void AddCart()throws InterruptedException {
+    public void AddCart() {
         MainPage mainPage = new MainPage();
         mainPage.waitUntilDownloading();
-        Double totalPrice = mainPage.getUpperMenu().searchElement().openEditCard()
-                .changePaperType().changeQuantity().addToCard().openPopap();
-        System.out.println(totalPrice);
-
-        assertThat(totalPrice).as("").isEqualTo(77.40);
-
+        EditCard editCard = mainPage
+                .getUpperMenu()
+                .searchElement()
+                .openEditCard()
+                .changePaperType()
+                .changeQuantity()
+                .addToCard()
+                .getFields();
+        Double totalPrice = editCard.getTotalPrice();
+        String message = editCard.getMessage();
+        String typeOfPaper = editCard.getTypeOfPaper();
+        int quantity = editCard.getQuantityProducts();
+        SoftAssertions softly = new SoftAssertions();
+        softly.assertThat(totalPrice).as("Total price calculated wrong").isEqualTo(77.40);
+        softly.assertThat(message).as("Message is wrong").isEqualTo("\uE876Product successfully added to your shopping cart");
+        softly.assertThat(typeOfPaper).as("Wrong Type Of paper").isEqualTo("Doted");
+        softly.assertThat(quantity).as("Wrong quantity").isEqualTo(5);
+        softly.assertAll();
     }
 }

@@ -39,9 +39,6 @@ public class CreateAnAccount extends BasePage{
     @FindBy(xpath = "//div[@class='help-block']//li")
     private WebElement invalidFormatMessage;
 
-
-
-
     public CreateAnAccount selectSocialTitle() {
         socialTitleMrsRadioButton.click();
         return this;
@@ -94,18 +91,4 @@ public class CreateAnAccount extends BasePage{
         String result = errorMessage + " " + css;
         return result;
     }
-
-    /*public String searchErrorMessage() {
-        String errorMessage = invalidFormatMessage.getText();
-        return errorMessage;
-    }*/
-
-
-
-
-
-
-
-
-
 }

@@ -1,6 +1,7 @@
 package pages;
 
 import blocks.Product;
+import lombok.ToString;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
@@ -8,12 +9,12 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.List;
 import org.openqa.selenium.support.ui.Select;
 
+@ToString
 public class BasePage {
 
     public static final ThreadLocal<WebDriver> DRIVER_THREAD_LOCAL = new ThreadLocal<>();
@@ -30,16 +31,7 @@ public class BasePage {
         return DRIVER_THREAD_LOCAL.get();
     }
 
-    //protected static WebDriver driver;
     protected static WebDriverWait wait;
-
-    /*public static void setDriver(WebDriver webDriver) {
-        driver = webDriver;
-    }*/
-
-    /*public static WebDriver getDriver() {
-        return driver;
-    }*/
 
     public static void setWait(WebDriverWait webWait) {
         wait = webWait;
@@ -49,35 +41,29 @@ public class BasePage {
         return wait;
     }
 
-   public static void scrollToWebElement(WebElement element)throws InterruptedException {
+   public static void scrollToWebElement(WebElement element) {
        JavascriptExecutor executor = ((JavascriptExecutor) getDriver());
        executor.executeScript("arguments[0].scrollIntoView(true);", element);
-       Thread.sleep(3000);
+       try {
+           Thread.sleep(3000);
+       } catch (InterruptedException e) {
+           e.printStackTrace();
+       }
    }
 
     public static void hoverMenu(WebElement element) {
         Actions action = new Actions(getDriver());
         action.moveToElement(element).build().perform();
-
     }
 
     public static void isVisibleElement(By locator) {
-
         BasePage.getWait().until(ExpectedConditions.visibilityOfElementLocated(locator));
-
     }
 
     public static WebElement findElement(By locator) {
         WebElement element = getDriver().findElement(locator);
         return element;
     }
-
-    /*public Boolean findSubMenuOfClothes() {
-        hoverMenu(clothesTab);
-        List<WebElement> elements = getDriver().findElements(menAndWomenSubMenu);
-        return ((elements.size() == 2) && elements.get(0).isDisplayed() && elements.get(1).isDisplayed());
-
-    }*/
 
     public int checkIsDisplayedElements(By by) {
         List<WebElement> elements = getDriver().findElements(by);
@@ -95,21 +81,13 @@ public class BasePage {
 
     public static double round(double value, int places) {
         if (places < 0) throw new IllegalArgumentException();
-
         BigDecimal bd = new BigDecimal(Double.toString(value));
         bd = bd.setScale(places, RoundingMode.HALF_UP);
         return bd.doubleValue();
     }
 
-    /*public List<Product> getAllProductsOnPage(List<WebElement> containersOfProducts) {
-        List<Product> products = Product.getProducts(containersOfProducts);
-        return products;
-    }*/
     public static Select selectElement(By locator) {
         Select select = new Select(getDriver().findElement(locator));
         return select;
-
     }
-
-
 }

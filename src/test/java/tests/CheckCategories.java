@@ -10,7 +10,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 public class CheckCategories extends BaseTest {
 
     @Test
-    public void CheckSubMenus() throws InterruptedException {
+    public void CheckSubMenus() {
         MainPage mainPage = new MainPage();
         mainPage.waitUntilDownloading();
         List<String> clotheSubMenus = mainPage.getUpperMenu().findSubMenuClothes();
@@ -20,13 +20,11 @@ public class CheckCategories extends BaseTest {
         SoftAssertions softly = new SoftAssertions();
             softly.assertThat(clotheSubMenus)
                     .as("Submenus of Clothes aren't appeared")
-                    .containsAnyOf("MEN")
-                    .containsAnyOf("WOMEN");
+                    .containsExactlyInAnyOrder("MEN","WOMEN");
 
             softly.assertThat(accessoriesSubMenus)
                     .as("Submenus of Accessories are not appeared")
-                    .containsAnyOf("STATIONERY")
-                    .containsAnyOf("HOME ACCESSORIES");
+                    .containsExactlyInAnyOrder("STATIONERY", "HOME ACCESSORIES");
 
             softly.assertThat(artSubMenus)
                     .as("There is submenu of Art")
@@ -34,6 +32,5 @@ public class CheckCategories extends BaseTest {
 
         softly.assertAll();
         }
-
     }
 

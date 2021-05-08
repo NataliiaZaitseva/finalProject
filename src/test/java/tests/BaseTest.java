@@ -17,11 +17,9 @@ public class BaseTest {
         driver.manage().window().maximize();
         BasePage.setDriverThreadLocal(driver);
         driver.get("https://demo.prestashop.com/");
-        //BasePage.setDriver(driver);
         BasePage.setWait(wait);
         driver.switchTo().frame("framelive");
     }
-
 
     @AfterMethod
     public void quite() {

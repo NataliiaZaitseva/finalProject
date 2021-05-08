@@ -4,7 +4,6 @@ import blocks.Product;
 import org.assertj.core.api.SoftAssertions;
 import org.testng.annotations.Test;
 import pages.MainPage;
-
 import java.util.ArrayList;
 import java.util.List;
 import static org.assertj.core.api.Assertions.assertThat;
@@ -12,35 +11,24 @@ import static org.assertj.core.api.Assertions.assertThat;
 public class CheckPopularProducts extends BaseTest{
 
     @Test
-    public void checkPopularProducts()throws InterruptedException {
+    public void checkPopularProducts() {
 
         MainPage mainPage = new MainPage();
         mainPage.waitUntilDownloading();
         List<Product> allProductsOnPage = mainPage.getAllProductsOnPage();
-        int numbersPriceBiggerNull = Product.checkPriceBiggerNull();
-
-        /*List<Double> regularPrices = new ArrayList<>();
-        List<String> productNames = new ArrayList<>();
-
-       for (Product product : allProductsOnPage) {
-           regularPrices.add(product.getRegularPrice());
-           productNames.add(product.getProductName());
-
-            //System.out.println(product.getRegularPrice());
-           //System.out.println(product.getProductName());
-       }*/
+        int numbersOfProductsWithPriceBiggerZero = Product.getNumberOfPricesBiggerZero(allProductsOnPage);
 
         SoftAssertions softly = new SoftAssertions();
-        assertThat(allProductsOnPage)
+        softly.assertThat(allProductsOnPage)
                 .as("There are not 8 products on the page")
                 .hasSize(8);
-       assertThat(Product.getRegularPrices())
+       softly.assertThat(Product.getRegularPrices(allProductsOnPage))
                .as("There are not 8 prices on the page")
                .hasSize(8);
-       assertThat(Product.getProductNames())
+       softly.assertThat(Product.getProductNames(allProductsOnPage))
                .as("There are not 8 product names on the page")
                .hasSize(8);
-       assertThat(numbersPriceBiggerNull)
+       softly.assertThat(numbersOfProductsWithPriceBiggerZero)
                .as("Not all prices bigger 0")
                .isEqualTo(8);
 

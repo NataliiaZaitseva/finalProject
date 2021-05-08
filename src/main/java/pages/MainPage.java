@@ -85,12 +85,11 @@ public class MainPage extends BasePage {
     }
 
     public MainPage waitUntilDownloading() {
-        //BasePage.getWait().until(ExpectedConditions.visibilityOfElementLocated(signInIcon));
         isVisibleElement(signInIcon);
         return this;
     }
 
-    public MainPage fillInputFieldEmail(String email) throws InterruptedException {
+    public MainPage fillInputFieldEmail(String email) {
         scrollToWebElement(inputFieldEmail);
         inputFieldEmail.sendKeys(email);
         return this;
@@ -102,9 +101,9 @@ public class MainPage extends BasePage {
         return this;
     }
 
-    public Boolean checkIsSubscribe() {
-        JavascriptExecutor js = (JavascriptExecutor)getDriver();
-        Boolean searchResult = (Boolean)js.executeScript("return arguments[0].checkValidity();", inputFieldEmail);
+    public Boolean isSubscribe() {
+        JavascriptExecutor js = (JavascriptExecutor) getDriver();
+        Boolean searchResult = (Boolean) js.executeScript("return arguments[0].checkValidity();", inputFieldEmail);
         return searchResult;
     }
 
@@ -114,15 +113,12 @@ public class MainPage extends BasePage {
         return this;
     }
 
-    public List<String> findLanguage() {
-        Boolean result = false;
-        List<String> langs = new ArrayList<>();
-
-            for (WebElement language : listOfLanguages) {
-                langs.add(language.getText());
-            }
-
-        return langs;
+    public List<String> findLanguages() {
+        List<String> languages = new ArrayList<>();
+        for (WebElement language : listOfLanguages) {
+            languages.add(language.getText());
+        }
+        return languages;
     }
 
     public LoginPage clickSignInButton() {
@@ -130,7 +126,7 @@ public class MainPage extends BasePage {
         return new LoginPage();
     }
 
-    public String findUserName() {
+    public String getUserName() {
         return nameOfUser.getText();
     }
 
@@ -139,8 +135,8 @@ public class MainPage extends BasePage {
         return products;
     }
 
-    public HomePage1 clickAllProductsButton() {
+    public HomePage clickAllProductsButton() {
         allProductsButton.click();
-        return new HomePage1();
+        return new HomePage();
     }
 }
