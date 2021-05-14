@@ -5,7 +5,7 @@ import pages.MainPage;
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class CheckIsSubscribe extends BaseTest {
-    private String email = "tttt@ttt";
+    final private String email = "tttt@ttt";
 
     @Test
     public void checkSubscribe(){ 

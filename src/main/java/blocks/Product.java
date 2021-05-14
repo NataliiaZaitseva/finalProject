@@ -1,13 +1,10 @@
 package blocks;
 
 import lombok.Data;
-import lombok.ToString;
 import lombok.extern.slf4j.Slf4j;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.PageFactory;
 import java.util.*;
-import static pages.BasePage.getDriver;
 import static pages.BasePage.round;
 
 @Data

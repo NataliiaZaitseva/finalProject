@@ -3,7 +3,6 @@ package tests;
 import org.testng.annotations.Test;
 import pages.EditCard;
 import pages.MainPage;
-import static org.assertj.core.api.Assertions.assertThat;
 import org.assertj.core.api.SoftAssertions;
 
 public class AddToCart extends BaseTest{

@@ -1,6 +1,5 @@
 package pages;
 
-import blocks.Product;
 import lombok.ToString;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;

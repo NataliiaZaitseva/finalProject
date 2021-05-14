@@ -17,8 +17,4 @@ public class LoginPage extends BasePage {
         noAccountLink.click();
         return new CreateAnAccount();
     }
-
-
-
-
 }

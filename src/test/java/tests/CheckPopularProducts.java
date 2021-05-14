@@ -4,9 +4,7 @@ import blocks.Product;
 import org.assertj.core.api.SoftAssertions;
 import org.testng.annotations.Test;
 import pages.MainPage;
-import java.util.ArrayList;
 import java.util.List;
-import static org.assertj.core.api.Assertions.assertThat;
 
 public class CheckPopularProducts extends BaseTest{
 
@@ -34,5 +32,4 @@ public class CheckPopularProducts extends BaseTest{
 
         softly.assertAll();
     }
-
 }

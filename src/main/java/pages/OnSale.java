@@ -5,7 +5,6 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-
 import java.util.List;
 
 public class OnSale extends BasePage{
@@ -28,6 +27,4 @@ public class OnSale extends BasePage{
         isVisibleElement(firstProduct);
         return this;
     }
-
-
 }

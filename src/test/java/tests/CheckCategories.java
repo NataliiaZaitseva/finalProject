@@ -1,11 +1,9 @@
 package tests;
 
-import blocks.UpperMenu;
 import org.assertj.core.api.SoftAssertions;
 import org.testng.annotations.Test;
 import pages.MainPage;
 import java.util.List;
-import static org.assertj.core.api.Assertions.assertThat;
 
 public class CheckCategories extends BaseTest {
 

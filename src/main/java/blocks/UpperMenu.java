@@ -8,7 +8,6 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import pages.BasePage;
-import pages.MainPage;
 import pages.SearchResultsPage;
 
 import java.util.ArrayList;
@@ -34,14 +33,9 @@ public class UpperMenu {
     private By stationeryAndHomeAccessoriesSubmenus = By.xpath("//li[@id='category-6']//li//a");
     private By artSubMenu = By.xpath("//li[@id='category-9']//li//a");
 
-
     public UpperMenu(WebDriver driver) {
         PageFactory.initElements(driver, this);
     }
-
-//    List<String> clothesSubMenus = new ArrayList<>();
-//    List<String> accessoriesSubMenus = new ArrayList<>();
-//    List<String> artSubmenusList = new ArrayList<>();
 
     public List<String> findSubMenus(WebElement menuTab, By locatorSubMenus) {
         BasePage.hoverMenu(menuTab);

@@ -1,17 +1,16 @@
 package tests;
 
-import org.testng.Assert;
 import org.testng.annotations.Test;
 import pages.MainPage;
 import utilits.GeneratorEmail;
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class RegistrationWithValidData extends BaseTest {
-    private String firstName = "Mayaa";
-    private String lastName = "Lomovaa";
-    private String email = GeneratorEmail.generateEmail("gmail", 3, "Katya1" );
-    private String password = "123asdAnn";
-    private String birthday = "05/31/1970";
+    final private String firstName = "Mayaa";
+    final private String lastName = "Lomovaya";
+    final private String email = GeneratorEmail.generateEmail("gmail", 3, "Katya1" );
+    final private String password = "123asdAnn";
+    final private String birthday = "05/31/1970";
 
     @Test
     public void RegisterWithValidData() {

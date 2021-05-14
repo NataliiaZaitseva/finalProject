@@ -17,22 +17,6 @@ public class EditCard extends BasePage{
     private String message;
     private String typeOfPaper;
 
-//    public String getTypeOfPaper() {
-//        return typeOfPaper;
-//    }
-//
-//    public String getMessage() {
-//        return message;
-//    }
-//
-//    public double getTotalPrice() {
-//        return totalPrice;
-//    }
-//
-//    public int getQuantityProducts() {
-//        return quantityProducts;
-//    }
-
     private By selectPaperType = By.xpath("//select[@id='group_4']");
     private By popupHeader = By.xpath("//div[@class='modal-header']//h4");
 
@@ -95,8 +79,4 @@ public class EditCard extends BasePage{
         totalPrice = checkTotalTax();
         return this;
         }
-
-
-
-
 }
